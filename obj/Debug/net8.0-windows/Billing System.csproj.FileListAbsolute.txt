@@ -1,0 +1,35 @@
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\Billing System.exe
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\Billing System.deps.json
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\Billing System.runtimeconfig.json
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\Billing System.dll
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\Billing System.pdb
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.FrmAdminDashboard.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.AssemblyInfo.cs
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.dll
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\refint\Billing System.dll
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.pdb
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.genruntimeconfig.cache
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\ref\Billing System.dll
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.FrmUserDashboard.resources
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\Billing System.dll.config
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.FrmUsers.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.Properties.Resources.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Billing System\Billing System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing .BB39E81F.Up2Date
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.FrmLogin.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.FrmCategories.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.FrmProducts.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.FrmDealcust.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.frmPurchaseandSales.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.frmTransactions.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.frmInventory.resources
