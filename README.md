@@ -84,9 +84,9 @@ I built this software step-by-step on YouTube.
 
 ---
 
-🗃 Database Setup
+ ## 🗃 Database Setup 
 
-- Run the BillingDB.sql file in SQL Server Management Studio  
+- Run the BillingSystem_Database.sql file in SQL Server Management Studio  
 - This will create all required tables with sample data
 
 ---
