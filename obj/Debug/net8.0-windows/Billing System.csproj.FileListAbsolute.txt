@@ -33,3 +33,4 @@ C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billi
 C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.frmPurchaseandSales.resources
 C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.frmTransactions.resources
 C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing_System.UI.frmInventory.resources
+C:\Users\HP\Desktop\Billing System\Billing System\obj\Debug\net8.0-windows\Billing System.sourcelink.json

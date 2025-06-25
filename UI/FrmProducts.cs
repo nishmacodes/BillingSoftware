@@ -77,8 +77,10 @@ namespace Billing_System.UI
         categoriesDAL cdal = new categoriesDAL();
         private void FrmProducts_Load(object sender, EventArgs e)
         {
+            
             DataTable dt = new DataTable();
             dgvProducts.DataSource = dt;
+           
 
             //creating datable to hold the categories from database
             DataTable categoriesDT=cdal.select();
@@ -87,6 +89,7 @@ namespace Billing_System.UI
             //specify display member and value member for combobox
             cmbCategory.DisplayMember = "title";
             cmbCategory.ValueMember = "title";
+            cmbCategory.SelectedIndex = -1;
 
         }
 
