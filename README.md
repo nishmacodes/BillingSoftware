@@ -84,6 +84,13 @@ I built this software step-by-step on YouTube.
 
 ---
 
+🗃 Database Setup
+
+- Run the BillingDB.sql file in SQL Server Management Studio  
+- This will create all required tables with sample data
+
+---
+
 ## 👩‍💻 Author
 
 *Nishma P*  
@@ -98,4 +105,6 @@ This project is open-source under the *MIT License*.
 You are free to use, modify, and share it.
 
 ---
+
+
 
