@@ -44,19 +44,43 @@ I built this software step-by-step on YouTube.
 
 ---
 
-## 🖼 Screenshots
+## Application Screenshots
 
-### 🔹 Login Form
-![Login Form](screenshots/login-form.png)
+### 1. Login Form
+![Login Form](./login_form.png)
 
-### 🔹 Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 2. Admin Dashboard
+![Admin Dashboard](./admin_dashboard.png)
 
-### 🔹 Product Form
-![Product](screenshots/product-form.png)
+### 3. User Management
+![User Management](./user_management.png)
 
-### 🔹 Transaction Form
-![Transaction](screenshots/transaction-form.png)
+### 4.Category Form
+![Category Form](./category_form.png)
+
+### 5.Products Management
+![Products Management](./products_management.png)
+
+### 6. Dealer and Customer Form
+![Dealer and Customer Form](./dealer_customer_form.png)
+
+### 7. Inventory Form
+![Inventory Form](./inventory_form.png)
+
+### 8. Transactions Form
+![Transactions Form](./transactions_form.png)
+
+### 9. User Dashboard
+![User Dashboard](./user_dashboard.png)
+
+### 10. Purchase Form
+![Purchase Form](./purchase_form.png)
+
+### 11. Sales Form
+![Sales Form](./sales_form.png)
+
+### 12. Billing Invoice
+![Billing Invoice](./billing_invoice.png)
 
 ---
 
