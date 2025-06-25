@@ -1,24 +1,28 @@
 # Billing Software in C#
 
-This is a simple billing/invoicing software built using *C# and Windows Forms*. It supports customer data entry, product management, invoice generation, and more.
+This is a complete billing and invoicing software built using *C# and Windows Forms*. It includes user authentication, transaction management, invoice creation, and product/customer control — all connected to a SQL Server database.
 
-📺 *Video Tutorial Series*  
-I built this software step-by-step on YouTube. Watch the full series here:  
-👉 [Billing Software YouTube Playlist](https://youtube.com/playlist?list=PLBLPjjQlnVXVnz3Hksi1th0uHXxh6Dm3h&si=TTZrx02QdMEZhgBH)
+📺 *YouTube Tutorial Series*  
+I built this software step-by-step on YouTube.  
+👉 [Watch the Full Playlist](https://youtube.com/playlist?list=PLBLPjjQlnVXVnz3Hksi1th0uHXxh6Dm3h&si=TTZrx02QdMEZhgBH)
 
 ---
 
 ## 🚀 Features
 
-- Product and customer management
-- Invoice generation
-- Database integration with SQL Server
-- User-friendly Windows Forms UI
-- Print and export billing functionality
+- 🔐 *Login Form with User Authentication*
+- 👥 *User Management* (Add, Edit, Delete users)
+- 📦 *Product Management*
+- 👤 *Customer & Dealer Management*
+- 🧾 *Transaction & Billing System*
+- 📄 *Invoice Generation and Printing*
+- 📊 *Dashboards with statistics*
+- 🗂 *Category, Brand, and Item Grouping*
+- 💾 *SQL Server Integration* for data storage
 
 ---
 
-## 🛠 Technologies Used
+## 🖥 Technologies Used
 
 - C# (.NET Framework)
 - Windows Forms (WinForms)
@@ -27,15 +31,32 @@ I built this software step-by-step on YouTube. Watch the full series here:
 
 ---
 
-## 📁 Project Structure
-
+## 📂 Project Structure
 /BillingSoftware
 │
 ├── bin/             # Build output (ignored by Git)
-├── obj/             # Temporary files (ignored by Git)
-├── Forms/           # All UI Forms
-├── Models/          # Data models for products, customers, etc.
-├── Program.cs       # Application entry point
+├── obj/             # Temporary files
+├── Forms/           # All UI Forms (login, users, transactions, etc.)
+├── Models/          # Data models (Product, User, Customer, etc.)
+├── DAL/             # Data Access Layer
+├── BLL/             # Business Logic Layer
+├── Program.cs       # Starting point of the app
+
+---
+
+## 🖼 Screenshots
+
+### 🔹 Login Form
+![Login Form](screenshots/login-form.png)
+
+### 🔹 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🔹 Product Form
+![Product](screenshots/product-form.png)
+
+### 🔹 Transaction Form
+![Transaction](screenshots/transaction-form.png)
 
 ---
 
@@ -49,4 +70,8 @@ I built this software step-by-step on YouTube. Watch the full series here:
 
 ## 📄 License
 
-You are free to use or improve this project. No restrictions.
+This project is open-source under the *MIT License*.  
+You are free to use, modify, and share it.
+
+---
+
