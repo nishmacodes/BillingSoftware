@@ -32,15 +32,22 @@ I built this software step-by-step on YouTube.
 ---
 
 ## 📂 Project Structure
+
 /BillingSoftware
 │
-├── bin/             # Build output (ignored by Git)
-├── obj/             # Temporary files
-├── Forms/           # All UI Forms (login, users, transactions, etc.)
-├── Models/          # Data models (Product, User, Customer, etc.)
-├── DAL/             # Data Access Layer
-├── BLL/             # Business Logic Layer
-├── Program.cs       # Starting point of the app
+├── bin/ # Build output files (auto-generated, ignored by Git)
+├── obj/ # Temporary object files (auto-generated, ignored by Git)
+│
+├── Forms/ # Windows Forms UI (Login, Users, Products, Billing, etc.)
+├── Models/ # C# classes representing data entities (User, Product, Customer, etc.)
+├── DAL/ # Data Access Layer – handles database operations and SQL logic
+├── BLL/ # Business Logic Layer – contains core business rules and validation
+│
+├── Program.cs # Entry point of the application (Main method)
+├── App.config # Application configuration file (includes DB connection string)
+├── LICENSE # License file (MIT)
+├── README.md # Project documentation
+└── .gitignore # Specifies files/folders Git should ignore
 
 ---
 
